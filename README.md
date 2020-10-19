@@ -13,7 +13,7 @@
 * Примечание: взаимодействие CMS и gateway пишется в лог по адресу: /{MAGENTO_PATH}/var/log/platon_callback.log. Убедитесь, что эта директория доступна для записи веб-серверу.
 
 ## Ссылка для коллбеков:
-https://ВАШ_САЙТ/index.php?route=payment/platon/callback
+https://ВАШ_САЙТ/platon/connector/process/
 
 ## Тестирование:
 В целях тестирования используйте наши тестовые реквизиты.
